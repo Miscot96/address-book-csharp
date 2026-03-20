@@ -1,6 +1,6 @@
 # Address Book (C#)
 
-A console-based Address Book application built with C# and .NET.
+Console Address Book app with search, edit, and JSON persistence in C#
 
 ## Features
 - Add contacts
